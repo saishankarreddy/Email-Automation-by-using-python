@@ -1,0 +1,83 @@
+2026-02-09 15:46:42.389228 - Error: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-824418bf024sm9451034b3a.56 - gsmtp')
+2026-02-09 15:53:50.018217 - Login successful
+2026-02-09 15:53:50.270670 - All emails sent successfully
+2026-02-09 15:54:57.327833 - Login successful
+2026-02-09 15:54:57.574989 - All emails sent successfully
+2026-02-09 16:01:30.012393 - Login successful
+2026-02-09 16:01:30.272903 - All emails sent successfully
+2026-02-09 16:02:59.610414 - Login successful
+2026-02-09 16:02:59.862307 - All emails sent successfully
+2026-02-09 16:06:29.464220 - Login successful
+2026-02-09 16:06:29.722618 - All emails sent successfully
+2026-02-09 16:07:48.843114 - Login successful
+2026-02-09 16:07:49.097704 - All emails sent successfully
+2026-02-09 16:12:03.094516 - Login successful
+2026-02-09 16:12:04.684087 - Email sent to saishankareddykarri@gmail.com
+2026-02-09 16:12:49.940037 - All emails sent successfully
+2026-02-09 16:15:56.504975 - Login successful
+2026-02-09 16:15:58.048078 - Email sent to aneeqsyed12@gmail.com
+2026-02-09 16:16:43.296974 - All emails sent successfully
+2026-02-11 14:49:42.921888 - Login successful
+2026-02-11 14:49:44.493605 - Email sent to aneeqsyed12@gmail.com
+2026-02-11 14:50:21.761885 - Login successful
+2026-02-11 14:50:23.296122 - Email sent to aneeqsyed12@gmail.com
+2026-02-11 15:03:18.129963 - Login successful
+2026-02-11 15:03:19.767562 - Email sent to aneeqsyed12@gmail.com
+2026-02-11 15:04:05.023560 - All emails sent successfully
+2026-02-11 15:06:13.952879 - Login successful
+2026-02-11 15:06:15.946371 - Email sent to aneeqsyed12@gmail.com
+2026-02-11 15:07:01.196829 - All emails sent successfully
+2026-02-11 16:08:21.727626 - Login successful
+2026-02-11 16:08:23.218630 - Email sent to anil.moturi@solugenix.com
+2026-02-11 16:08:49.673903 - Email sent to anil.k@corestack.io
+2026-02-11 16:09:16.110701 - Email sent to akanksha.puri@sourcefuse.com
+2026-02-11 16:09:42.581308 - Email sent to akanksha.sogani@perennialsys.com
+2026-02-11 16:10:09.047131 - Email sent to akhil@ibhubs.co
+2026-02-11 16:10:35.537222 - Email sent to akhila@estuate.com
+2026-02-11 16:11:02.034971 - Email sent to akram.mohammad@colruytgroup.com
+2026-02-11 16:11:28.491783 - Email sent to akriti@elsner.in
+2026-02-11 16:11:54.948030 - Email sent to akshata.bhandare@windmill.ch
+2026-02-11 16:12:21.350612 - Email sent to albino@pixis.ai
+2026-02-11 16:12:47.790694 - Email sent to allwyn.r@qbrainx.com
+2026-02-11 16:13:14.388788 - Email sent to alok.singh@recro.io
+2026-02-11 16:13:40.870065 - Email sent to alok.kumar@vfislk.com
+2026-02-11 16:14:07.346429 - Email sent to alwyn.barretto@infrasofttech.com
+2026-02-11 16:14:33.835825 - Email sent to aman.khan@areteanstech.com
+2026-02-11 16:15:00.289387 - Email sent to amandeep.k@antiersolutions.com
+2026-02-11 16:15:26.838441 - Email sent to amar.sinha@nitorinfotech.com
+2026-02-11 16:15:53.325271 - Email sent to ambrish.kanungo@beyondkey.com
+2026-02-11 16:16:19.833493 - Email sent to amiit.avaasthi@altudo.co
+2026-02-11 16:16:46.285301 - Email sent to amit.malhotra@wundermanthompson.com
+2026-02-11 16:17:12.770109 - Email sent to amit@hanu.com
+2026-02-11 16:17:39.256903 - Email sent to amit.prayagi@claimgenius.com
+2026-02-11 16:18:05.732394 - Email sent to amit.ranjan@scikey.ai
+2026-02-11 16:18:32.311386 - Email sent to amit.sahoo@areteanstech.com
+2026-02-11 16:18:58.805846 - Email sent to ashital@svam.com
+2026-02-11 16:19:25.261886 - Email sent to amitesh.verma@cheersin.com
+2026-02-11 16:19:51.735162 - Email sent to amitha.k@secure-24.com
+2026-02-11 16:20:18.224215 - Email sent to amlan.nag@mjunction.in
+2026-02-11 16:20:44.668564 - Email sent to amreshm@zendrive.com
+2026-02-11 16:21:11.110977 - Email sent to akishore@dimagi.com
+2026-02-11 16:21:37.671324 - Email sent to amrita.cheema@loconav.com
+2026-02-11 16:22:04.089963 - Email sent to amrita.singh@cogentinfo.com
+2026-02-11 16:22:30.597310 - Email sent to amrita.singh@itbd.net
+2026-02-11 16:22:57.352371 - Email sent to amrita@sdnaglobal.com
+2026-02-11 16:23:23.900017 - Email sent to amritesh.shukla@mygate.com
+2026-02-11 16:23:50.604434 - Email sent to amruta@greatplaceitservices.com
+2026-02-11 16:24:17.230306 - Email sent to amulya.ms@utthunga.com
+2026-02-11 16:24:44.041370 - Email sent to anand.christopher@grassrootsbpo.com
+2026-02-11 16:25:10.499854 - Email sent to anand.e@increff.com
+2026-02-11 16:25:36.990278 - Email sent to ak@8kmiles.com
+2026-02-11 16:26:03.460321 - Email sent to anandk@pharmarack.com
+2026-02-11 16:26:29.995519 - Email sent to anand.r@whatarage.com
+2026-02-11 16:26:56.446299 - Email sent to anand@hubilo.com
+2026-02-11 16:27:22.925928 - Email sent to anand@auzmor.com
+2026-02-11 16:27:49.425348 - Email sent to anand@capsitech.com
+2026-02-11 16:28:15.951864 - Email sent to athiagarajan@inniveinc.com
+2026-02-11 16:28:42.439707 - Email sent to anandhi.s@dsmsoft.com
+2026-02-11 16:29:08.925875 - Email sent to ananthram.iyer@customercentria.com
+2026-02-11 16:29:35.381995 - Email sent to anrastogi@enhanceit.com
+2026-02-11 16:30:01.759913 - Email sent to aarasina@teksystems.com
+2026-02-11 16:30:28.287268 - Email sent to angel.mathew@delphix.com
+2026-02-11 16:30:54.746805 - Email sent to anil.chandra@thoughtspot.com
+2026-02-11 16:31:20.487847 - Error: {'': (555, b'5.5.2 Syntax error, cannot decode response. For more information, go to\n5.5.2  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.5.2 specifications. d9443c01a7336-2ab2984ac8fsm20370315ad.10 - gsmtp')}
