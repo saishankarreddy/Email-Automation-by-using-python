@@ -15,8 +15,8 @@ LOG_FILE = os.path.join(BASE_DIR, "logs.txt")
 with open(CSV_FILE, encoding="utf-8") as f:
     
 
-    EMAIL = "saishankareddykarri@gmail.com"
-    PASSWORD = "rbpj pyfo bhir tmaq"
+    EMAIL = "dummyemail@gmail.com"
+    PASSWORD = "Email app password"
 
 
 
